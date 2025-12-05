@@ -1,6 +1,6 @@
 # Trillo
 
-This repository contains the final project for the **Advanced CSS & SASS** course by Jonas Schmedtmann. Trillo is a fictional hotel booking / resort landing page, built primarily to demonstrate CSS Flexbox skills and responsive layout techniques.
+This repository contains the project for the **Advanced CSS & SASS** course by Jonas Schmedtmann. Trillo is a fictional hotel booking / resort landing page, built primarily to demonstrate CSS Flexbox skills and responsive layout techniques.
 
 ## Overview
 
