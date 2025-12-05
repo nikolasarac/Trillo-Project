@@ -347,14 +347,9 @@ body {
 
 .legal {
   font-size: 1.2rem;
-  color: var(--color-grey-light-4);
+  color: var(--color-grey-dark-3);
   text-align: center;
-  padding: 2.5rem;
-}
-@media only screen and (max-width: 56.25em) {
-  .legal {
-    display: none;
-  }
+  padding-top: 2.5rem;
 }
 
 .gallery {
@@ -387,6 +382,12 @@ body {
   .overview__heading {
     font-size: 1.5rem;
     padding: 1rem 1.5rem;
+  }
+}
+@media only screen and (max-width: 25em) {
+  .overview__heading {
+    font-size: 1.2rem;
+    padding: 1rem;
   }
 }
 .overview__stars {
@@ -430,6 +431,11 @@ body {
 @media only screen and (max-width: 37.5em) {
   .overview__rating-average {
     font-size: 1.8rem;
+  }
+}
+@media only screen and (max-width: 25em) {
+  .overview__rating-average {
+    padding: 0 1.3rem;
   }
 }
 .overview__rating-count {
