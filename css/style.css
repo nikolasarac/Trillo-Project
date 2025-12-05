@@ -383,6 +383,12 @@ body {
     padding: 1.25rem 2rem;
   }
 }
+@media only screen and (max-width: 27.5em) {
+  .overview__heading {
+    font-size: 1.5rem;
+    padding: 1rem 1.5rem;
+  }
+}
 .overview__stars {
   margin-right: auto;
   display: flex;
