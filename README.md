@@ -15,9 +15,9 @@ Trillo is a clean, modern landing site for a hotel/resort — showcasing rooms, 
 
 ## Features
 
-- **Flexbox Layout:** The whole page layout (header, navigation, hotel overview, reviews, CTA) is built using Flexbox to align and distribute elements properly. :contentReference[oaicite:0]{index=0}  
-- **Responsive Design:** Media queries ensure the site looks good on desktop, tablet, and mobile devices. :contentReference[oaicite:1]{index=1}  
-- **Multiple Sections:** Header/navigation, overview, description, user reviews, and call-to-action sections give a realistic structure for a hotel/resort landing page. :contentReference[oaicite:2]{index=2}  
+- **Flexbox Layout:** The whole page layout (header, navigation, hotel overview, reviews, CTA) is built using Flexbox to align and distribute elements properly.  
+- **Responsive Design:** Media queries ensure the site looks good on desktop, tablet, and mobile devices.
+- **Multiple Sections:** Header/navigation, overview, description, user reviews, and call-to-action sections give a realistic structure for a hotel/resort landing page. 
 
 ## Live Demo
 
